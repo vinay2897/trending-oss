@@ -1,0 +1,3 @@
+ - use poetry
+ - handle rate limitied requests
+ - use pydantic
