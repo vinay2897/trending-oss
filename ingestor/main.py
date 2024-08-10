@@ -1,8 +1,10 @@
 import requests
 from dotenv import load_dotenv
 import os
+import logging
 
 load_dotenv()
+logging.basicConfig(level=logging.INFO)
 
 def make_github_req(url, additional_headers={}, query_params={}):
     github_auth_token = os.getenv("GITHUB_TOKEN")
