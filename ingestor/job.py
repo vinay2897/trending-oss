@@ -1,29 +1,36 @@
 import sys
-from main import get_repos_by_stars
+from main import get_repos_by_stars, prepare_document
+from mongo_client import create_collection, get_mongo_client, insert_documents
 import logging
 
 logging.basicConfig(level=logging.INFO)
 
 
 def start_job(min_stars, first):
-    result = get_repos_by_stars(min_stars=min_stars, first=first)
-    if result == None:
-        return
-    fetchNextPage = result["pageInfo"]["hasNextPage"]
+    mongo_client = get_mongo_client()
+    create_collection(mongo_client)
 
-    completed = first
-    logging.info("total records:" + str(result["repositoryCount"]))
-
-    while fetchNextPage:
-        after = result["pageInfo"]["endCursor"]
+    completed = 0
+    after = ""
+    while True:
         result = get_repos_by_stars(min_stars=min_stars, first=first, after=after)
         if result == None:
-            break
+            return
+        fetchNextPage = result["pageInfo"]["hasNextPage"]
+
+        documents = list(map(prepare_document, result["edges"]))
+        insert_documents(mongo_client, documents)
 
         completed = completed + first
-        logging.info("completed fetching:" + str(completed))
+        logging.info("completed:" + str(completed) + "/" + str(result["repositoryCount"]))
 
-        fetchNextPage = result["pageInfo"]["hasNextPage"]
+        after = result["pageInfo"]["endCursor"]
+
+        if fetchNextPage == False:
+            break
+
+    mongo_client.close()
+
 
 if __name__ == "__main__":
     args = sys.argv
