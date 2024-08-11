@@ -18,15 +18,13 @@ def test_get_reposby_stars():
         "databaseId",
         "name",
         "stargazerCount",
+        "watchers",
         "primaryLanguage",
         "owner",
-        "isFork",
         "forkCount",
         "diskUsage",
-        "pushedAt",
         "createdAt",
         "updatedAt",
-        "archivedAt",
         "url",
     ]
 
@@ -35,3 +33,4 @@ def test_get_reposby_stars():
         min_stars=10, first=1, after=search["pageInfo"]["endCursor"]
     )
     assert len(next_search["edges"]) == 1
+    assert search["edges"][0]["node"]["name"] != next_search["edges"][0]["node"]["name"]

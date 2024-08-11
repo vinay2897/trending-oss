@@ -36,8 +36,8 @@ def make_github_graphql_req(query, variables={}, additional_headers={}):
 
 def get_repos_by_stars(min_stars=100, first=100, after=""):
     query = """
-    query getReposByStar($query: String!, $first: Int) {
-      search(query: $query, type: REPOSITORY, first: $first) {
+    query getReposByStar($query: String!, $first: Int, $after: String) {
+      search(query: $query, type: REPOSITORY, first: $first, after: $after) {
         repositoryCount
         edges {
           node {
@@ -46,19 +46,19 @@ def get_repos_by_stars(min_stars=100, first=100, after=""):
               databaseId
               name
               stargazerCount
+              watchers {
+                totalCount
+              }
               primaryLanguage {
                 name
               }
               owner {
                 __typename
               }
-              isFork
               forkCount
               diskUsage
-              pushedAt
               createdAt
               updatedAt
-              archivedAt
               url
             }
           }
@@ -71,6 +71,7 @@ def get_repos_by_stars(min_stars=100, first=100, after=""):
     }
     """
 
+    data = {}
     try:
         result = make_github_graphql_req(
             query=query,
@@ -85,5 +86,5 @@ def get_repos_by_stars(min_stars=100, first=100, after=""):
 
         return search
     except Exception as err:
-        logging.error(err)
+        logging.error(str(err) + str(data))
         return None
