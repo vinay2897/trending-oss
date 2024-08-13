@@ -30,9 +30,9 @@ def create_collection(client):
         db.create_collection(
             COLLECTION_NAME,
             timeseries={
-                "timeField": TIMESTAMP_KEY,
-                "metaField": METADATA_KEY,
-                "granularity": "minutes",
+                "timeField": "ts",
+                # "metaField": "u",
+                "granularity": "hours",
             },
         )
     except Exception as e:
@@ -42,6 +42,6 @@ def create_collection(client):
 def insert_documents(client, documents):
     try:
         db = client.test
-        db.repos.insert_many(documents)
+        db[COLLECTION_NAME].insert_many(documents)
     except Exception as e:
         logging.error("Error inserting documents" + str(e))
