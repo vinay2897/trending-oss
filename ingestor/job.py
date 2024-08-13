@@ -1,4 +1,5 @@
 import sys
+import time
 from main import get_repos_by_stars, prepare_document
 from mongo_client import create_collection, get_mongo_client, insert_documents
 import logging
@@ -13,6 +14,8 @@ def start_job(min_stars, first):
     completed = 0
     after = ""
     while True:
+        start_time = time.perf_counter()
+
         result = get_repos_by_stars(min_stars=min_stars, first=first, after=after)
         if result == None:
             return
@@ -25,6 +28,9 @@ def start_job(min_stars, first):
         logging.info("completed:" + str(completed) + "/" + str(result["repositoryCount"]))
 
         after = result["pageInfo"]["endCursor"]
+
+        end_time = time.perf_counter()
+        print("time taken " + str(end_time - start_time) + " secs")
 
         if fetchNextPage == False:
             break
