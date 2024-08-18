@@ -1,0 +1,1528 @@
+[
+    {
+        "id": 0,
+        "baseFilter": "stars:>10",
+        "repoCount": 978,
+        "start": "2017-01-01T00:00:00.000Z",
+        "end": "2017-01-03T14:00:56.250Z"
+    },
+    {
+        "id": 1,
+        "baseFilter": "stars:>10",
+        "repoCount": 828,
+        "start": "2017-01-03T14:00:57.250Z",
+        "end": "2017-01-05T00:53:58.890Z"
+    },
+    {
+        "id": 2,
+        "baseFilter": "stars:>10",
+        "repoCount": 986,
+        "start": "2017-01-05T00:53:59.890Z",
+        "end": "2017-01-06T21:58:10.388Z"
+    },
+    {
+        "id": 3,
+        "baseFilter": "stars:>10",
+        "repoCount": 757,
+        "start": "2017-01-06T21:58:11.388Z",
+        "end": "2017-01-08T19:02:21.886Z"
+    },
+    {
+        "id": 4,
+        "baseFilter": "stars:>10",
+        "repoCount": 986,
+        "start": "2017-01-08T19:02:22.886Z",
+        "end": "2017-01-10T16:06:33.384Z"
+    },
+    {
+        "id": 5,
+        "baseFilter": "stars:>10",
+        "repoCount": 994,
+        "start": "2017-01-10T16:06:34.384Z",
+        "end": "2017-01-12T13:10:44.882Z"
+    },
+    {
+        "id": 6,
+        "baseFilter": "stars:>10",
+        "repoCount": 940,
+        "start": "2017-01-12T13:10:45.882Z",
+        "end": "2017-01-14T10:14:56.380Z"
+    },
+    {
+        "id": 7,
+        "baseFilter": "stars:>10",
+        "repoCount": 796,
+        "start": "2017-01-14T10:14:57.380Z",
+        "end": "2017-01-16T07:19:07.878Z"
+    },
+    {
+        "id": 8,
+        "baseFilter": "stars:>10",
+        "repoCount": 771,
+        "start": "2017-01-16T07:19:08.878Z",
+        "end": "2017-01-17T17:07:16.751Z"
+    },
+    {
+        "id": 9,
+        "baseFilter": "stars:>10",
+        "repoCount": 752,
+        "start": "2017-01-17T17:07:17.751Z",
+        "end": "2017-01-19T02:55:25.624Z"
+    },
+    {
+        "id": 10,
+        "baseFilter": "stars:>10",
+        "repoCount": 793,
+        "start": "2017-01-19T02:55:26.624Z",
+        "end": "2017-01-20T12:43:34.497Z"
+    },
+    {
+        "id": 11,
+        "baseFilter": "stars:>10",
+        "repoCount": 788,
+        "start": "2017-01-20T12:43:35.497Z",
+        "end": "2017-01-22T09:05:30.831Z"
+    },
+    {
+        "id": 12,
+        "baseFilter": "stars:>10",
+        "repoCount": 947,
+        "start": "2017-01-22T09:05:31.831Z",
+        "end": "2017-01-24T05:27:27.165Z"
+    },
+    {
+        "id": 13,
+        "baseFilter": "stars:>10",
+        "repoCount": 993,
+        "start": "2017-01-24T05:27:28.165Z",
+        "end": "2017-01-26T01:49:23.499Z"
+    },
+    {
+        "id": 14,
+        "baseFilter": "stars:>10",
+        "repoCount": 874,
+        "start": "2017-01-26T01:49:24.499Z",
+        "end": "2017-01-27T22:11:19.833Z"
+    },
+    {
+        "id": 15,
+        "baseFilter": "stars:>10",
+        "repoCount": 893,
+        "start": "2017-01-27T22:11:20.833Z",
+        "end": "2017-01-30T08:25:07.209Z"
+    },
+    {
+        "id": 16,
+        "baseFilter": "stars:>10",
+        "repoCount": 869,
+        "start": "2017-01-30T08:25:08.209Z",
+        "end": "2017-02-01T04:05:27.991Z"
+    },
+    {
+        "id": 17,
+        "baseFilter": "stars:>10",
+        "repoCount": 964,
+        "start": "2017-02-01T04:05:28.991Z",
+        "end": "2017-02-02T23:45:48.773Z"
+    },
+    {
+        "id": 18,
+        "baseFilter": "stars:>10",
+        "repoCount": 901,
+        "start": "2017-02-02T23:45:49.773Z",
+        "end": "2017-02-04T19:26:09.555Z"
+    },
+    {
+        "id": 19,
+        "baseFilter": "stars:>10",
+        "repoCount": 864,
+        "start": "2017-02-04T19:26:10.555Z",
+        "end": "2017-02-06T15:06:30.337Z"
+    },
+    {
+        "id": 20,
+        "baseFilter": "stars:>10",
+        "repoCount": 798,
+        "start": "2017-02-06T15:06:31.337Z",
+        "end": "2017-02-07T23:51:46.173Z"
+    },
+    {
+        "id": 21,
+        "baseFilter": "stars:>10",
+        "repoCount": 826,
+        "start": "2017-02-07T23:51:47.173Z",
+        "end": "2017-02-09T08:37:02.009Z"
+    },
+    {
+        "id": 22,
+        "baseFilter": "stars:>10",
+        "repoCount": 769,
+        "start": "2017-02-09T08:37:03.009Z",
+        "end": "2017-02-10T17:22:17.845Z"
+    },
+    {
+        "id": 23,
+        "baseFilter": "stars:>10",
+        "repoCount": 776,
+        "start": "2017-02-10T17:22:18.845Z",
+        "end": "2017-02-12T12:21:42.068Z"
+    },
+    {
+        "id": 24,
+        "baseFilter": "stars:>10",
+        "repoCount": 756,
+        "start": "2017-02-12T12:21:43.068Z",
+        "end": "2017-02-13T20:36:15.485Z"
+    },
+    {
+        "id": 25,
+        "baseFilter": "stars:>10",
+        "repoCount": 794,
+        "start": "2017-02-13T20:36:16.485Z",
+        "end": "2017-02-15T04:50:48.902Z"
+    },
+    {
+        "id": 26,
+        "baseFilter": "stars:>10",
+        "repoCount": 801,
+        "start": "2017-02-15T04:50:49.902Z",
+        "end": "2017-02-16T13:05:22.319Z"
+    },
+    {
+        "id": 27,
+        "baseFilter": "stars:>10",
+        "repoCount": 856,
+        "start": "2017-02-16T13:05:23.319Z",
+        "end": "2017-02-17T21:19:55.736Z"
+    },
+    {
+        "id": 28,
+        "baseFilter": "stars:>10",
+        "repoCount": 780,
+        "start": "2017-02-17T21:19:56.736Z",
+        "end": "2017-02-19T15:39:01.783Z"
+    },
+    {
+        "id": 29,
+        "baseFilter": "stars:>10",
+        "repoCount": 924,
+        "start": "2017-02-19T15:39:02.783Z",
+        "end": "2017-02-21T09:58:07.830Z"
+    },
+    {
+        "id": 30,
+        "baseFilter": "stars:>10",
+        "repoCount": 850,
+        "start": "2017-02-21T09:58:08.830Z",
+        "end": "2017-02-22T17:42:27.615Z"
+    },
+    {
+        "id": 31,
+        "baseFilter": "stars:>10",
+        "repoCount": 983,
+        "start": "2017-02-22T17:42:28.615Z",
+        "end": "2017-02-24T11:21:53.271Z"
+    },
+    {
+        "id": 32,
+        "baseFilter": "stars:>10",
+        "repoCount": 816,
+        "start": "2017-02-24T11:21:54.271Z",
+        "end": "2017-02-26T05:01:18.927Z"
+    },
+    {
+        "id": 33,
+        "baseFilter": "stars:>10",
+        "repoCount": 956,
+        "start": "2017-02-26T05:01:19.927Z",
+        "end": "2017-02-27T22:40:44.583Z"
+    },
+    {
+        "id": 34,
+        "baseFilter": "stars:>10",
+        "repoCount": 986,
+        "start": "2017-02-27T22:40:45.583Z",
+        "end": "2017-03-01T14:24:49.911Z"
+    },
+    {
+        "id": 35,
+        "baseFilter": "stars:>10",
+        "repoCount": 972,
+        "start": "2017-03-01T14:24:50.911Z",
+        "end": "2017-03-03T06:08:55.239Z"
+    },
+    {
+        "id": 36,
+        "baseFilter": "stars:>10",
+        "repoCount": 924,
+        "start": "2017-03-03T06:08:56.239Z",
+        "end": "2017-03-04T21:53:00.567Z"
+    },
+    {
+        "id": 37,
+        "baseFilter": "stars:>10",
+        "repoCount": 820,
+        "start": "2017-03-04T21:53:01.567Z",
+        "end": "2017-03-06T13:37:05.895Z"
+    },
+    {
+        "id": 38,
+        "baseFilter": "stars:>10",
+        "repoCount": 977,
+        "start": "2017-03-06T13:37:06.895Z",
+        "end": "2017-03-08T05:21:11.223Z"
+    },
+    {
+        "id": 39,
+        "baseFilter": "stars:>10",
+        "repoCount": 795,
+        "start": "2017-03-08T05:21:12.223Z",
+        "end": "2017-03-09T11:09:15.469Z"
+    },
+    {
+        "id": 40,
+        "baseFilter": "stars:>10",
+        "repoCount": 939,
+        "start": "2017-03-09T11:09:16.469Z",
+        "end": "2017-03-11T02:16:05.730Z"
+    },
+    {
+        "id": 41,
+        "baseFilter": "stars:>10",
+        "repoCount": 763,
+        "start": "2017-03-11T02:16:06.730Z",
+        "end": "2017-03-12T17:22:55.991Z"
+    },
+    {
+        "id": 42,
+        "baseFilter": "stars:>10",
+        "repoCount": 921,
+        "start": "2017-03-12T17:22:56.991Z",
+        "end": "2017-03-14T08:29:46.252Z"
+    },
+    {
+        "id": 43,
+        "baseFilter": "stars:>10",
+        "repoCount": 792,
+        "start": "2017-03-14T08:29:47.252Z",
+        "end": "2017-03-15T13:49:54.197Z"
+    },
+    {
+        "id": 44,
+        "baseFilter": "stars:>10",
+        "repoCount": 951,
+        "start": "2017-03-15T13:49:55.197Z",
+        "end": "2017-03-17T04:20:04.313Z"
+    },
+    {
+        "id": 45,
+        "baseFilter": "stars:>10",
+        "repoCount": 838,
+        "start": "2017-03-17T04:20:05.313Z",
+        "end": "2017-03-18T18:50:14.429Z"
+    },
+    {
+        "id": 46,
+        "baseFilter": "stars:>10",
+        "repoCount": 779,
+        "start": "2017-03-18T18:50:15.429Z",
+        "end": "2017-03-20T09:20:24.545Z"
+    },
+    {
+        "id": 47,
+        "baseFilter": "stars:>10",
+        "repoCount": 977,
+        "start": "2017-03-20T09:20:25.545Z",
+        "end": "2017-03-21T23:50:34.661Z"
+    },
+    {
+        "id": 48,
+        "baseFilter": "stars:>10",
+        "repoCount": 902,
+        "start": "2017-03-21T23:50:35.661Z",
+        "end": "2017-03-23T14:20:44.777Z"
+    },
+    {
+        "id": 49,
+        "baseFilter": "stars:>10",
+        "repoCount": 896,
+        "start": "2017-03-23T14:20:45.777Z",
+        "end": "2017-03-25T04:50:54.893Z"
+    },
+    {
+        "id": 50,
+        "baseFilter": "stars:>10",
+        "repoCount": 926,
+        "start": "2017-03-25T04:50:55.893Z",
+        "end": "2017-03-27T07:23:00.358Z"
+    },
+    {
+        "id": 51,
+        "baseFilter": "stars:>10",
+        "repoCount": 993,
+        "start": "2017-03-27T07:23:01.358Z",
+        "end": "2017-03-28T20:41:32.779Z"
+    },
+    {
+        "id": 52,
+        "baseFilter": "stars:>10",
+        "repoCount": 887,
+        "start": "2017-03-28T20:41:33.779Z",
+        "end": "2017-03-30T10:00:05.200Z"
+    },
+    {
+        "id": 53,
+        "baseFilter": "stars:>10",
+        "repoCount": 914,
+        "start": "2017-03-30T10:00:06.200Z",
+        "end": "2017-03-31T23:18:37.621Z"
+    },
+    {
+        "id": 54,
+        "baseFilter": "stars:>10",
+        "repoCount": 961,
+        "start": "2017-03-31T23:18:38.621Z",
+        "end": "2017-04-03T00:16:42.361Z"
+    },
+    {
+        "id": 55,
+        "baseFilter": "stars:>10",
+        "repoCount": 793,
+        "start": "2017-04-03T00:16:43.361Z",
+        "end": "2017-04-04T13:00:16.166Z"
+    },
+    {
+        "id": 56,
+        "baseFilter": "stars:>10",
+        "repoCount": 938,
+        "start": "2017-04-04T13:00:17.166Z",
+        "end": "2017-04-06T01:43:49.971Z"
+    },
+    {
+        "id": 57,
+        "baseFilter": "stars:>10",
+        "repoCount": 883,
+        "start": "2017-04-06T01:43:50.971Z",
+        "end": "2017-04-07T14:27:23.776Z"
+    },
+    {
+        "id": 58,
+        "baseFilter": "stars:>10",
+        "repoCount": 911,
+        "start": "2017-04-07T14:27:24.776Z",
+        "end": "2017-04-09T14:39:34.083Z"
+    },
+    {
+        "id": 59,
+        "baseFilter": "stars:>10",
+        "repoCount": 912,
+        "start": "2017-04-09T14:39:35.083Z",
+        "end": "2017-04-11T02:48:42.063Z"
+    },
+    {
+        "id": 60,
+        "baseFilter": "stars:>10",
+        "repoCount": 879,
+        "start": "2017-04-11T02:48:43.063Z",
+        "end": "2017-04-12T14:57:50.043Z"
+    },
+    {
+        "id": 61,
+        "baseFilter": "stars:>10",
+        "repoCount": 854,
+        "start": "2017-04-12T14:57:51.043Z",
+        "end": "2017-04-14T03:06:58.023Z"
+    },
+    {
+        "id": 62,
+        "baseFilter": "stars:>10",
+        "repoCount": 940,
+        "start": "2017-04-14T03:06:59.023Z",
+        "end": "2017-04-16T02:33:56.934Z"
+    },
+    {
+        "id": 63,
+        "baseFilter": "stars:>10",
+        "repoCount": 990,
+        "start": "2017-04-16T02:33:57.934Z",
+        "end": "2017-04-18T01:16:26.816Z"
+    },
+    {
+        "id": 64,
+        "baseFilter": "stars:>10",
+        "repoCount": 869,
+        "start": "2017-04-18T01:16:27.816Z",
+        "end": "2017-04-19T12:18:19.477Z"
+    },
+    {
+        "id": 65,
+        "baseFilter": "stars:>10",
+        "repoCount": 952,
+        "start": "2017-04-19T12:18:20.477Z",
+        "end": "2017-04-20T23:20:12.138Z"
+    },
+    {
+        "id": 66,
+        "baseFilter": "stars:>10",
+        "repoCount": 788,
+        "start": "2017-04-20T23:20:13.138Z",
+        "end": "2017-04-22T10:22:04.799Z"
+    },
+    {
+        "id": 67,
+        "baseFilter": "stars:>10",
+        "repoCount": 865,
+        "start": "2017-04-22T10:22:05.799Z",
+        "end": "2017-04-24T08:20:47.354Z"
+    },
+    {
+        "id": 68,
+        "baseFilter": "stars:>10",
+        "repoCount": 968,
+        "start": "2017-04-24T08:20:48.354Z",
+        "end": "2017-04-25T18:49:49.520Z"
+    },
+    {
+        "id": 69,
+        "baseFilter": "stars:>10",
+        "repoCount": 807,
+        "start": "2017-04-25T18:49:50.520Z",
+        "end": "2017-04-27T05:18:51.686Z"
+    },
+    {
+        "id": 70,
+        "baseFilter": "stars:>10",
+        "repoCount": 787,
+        "start": "2017-04-27T05:18:52.686Z",
+        "end": "2017-04-28T15:47:53.852Z"
+    },
+    {
+        "id": 71,
+        "baseFilter": "stars:>10",
+        "repoCount": 974,
+        "start": "2017-04-28T15:47:54.852Z",
+        "end": "2017-05-01T04:08:41.893Z"
+    },
+    {
+        "id": 72,
+        "baseFilter": "stars:>10",
+        "repoCount": 993,
+        "start": "2017-05-01T04:08:42.893Z",
+        "end": "2017-05-03T01:24:18.174Z"
+    },
+    {
+        "id": 73,
+        "baseFilter": "stars:>10",
+        "repoCount": 816,
+        "start": "2017-05-03T01:24:19.174Z",
+        "end": "2017-05-04T11:21:00.635Z"
+    },
+    {
+        "id": 74,
+        "baseFilter": "stars:>10",
+        "repoCount": 832,
+        "start": "2017-05-04T11:21:01.635Z",
+        "end": "2017-05-05T21:17:43.096Z"
+    },
+    {
+        "id": 75,
+        "baseFilter": "stars:>10",
+        "repoCount": 993,
+        "start": "2017-05-05T21:17:44.096Z",
+        "end": "2017-05-08T07:46:15.206Z"
+    },
+    {
+        "id": 76,
+        "baseFilter": "stars:>10",
+        "repoCount": 780,
+        "start": "2017-05-08T07:46:16.206Z",
+        "end": "2017-05-09T16:39:48.705Z"
+    },
+    {
+        "id": 77,
+        "baseFilter": "stars:>10",
+        "repoCount": 833,
+        "start": "2017-05-09T16:39:49.705Z",
+        "end": "2017-05-11T01:33:22.204Z"
+    },
+    {
+        "id": 78,
+        "baseFilter": "stars:>10",
+        "repoCount": 758,
+        "start": "2017-05-11T01:33:23.204Z",
+        "end": "2017-05-12T10:26:55.703Z"
+    },
+    {
+        "id": 79,
+        "baseFilter": "stars:>10",
+        "repoCount": 805,
+        "start": "2017-05-12T10:26:56.703Z",
+        "end": "2017-05-14T05:37:13.108Z"
+    },
+    {
+        "id": 80,
+        "baseFilter": "stars:>10",
+        "repoCount": 883,
+        "start": "2017-05-14T05:37:14.108Z",
+        "end": "2017-05-16T00:47:30.513Z"
+    },
+    {
+        "id": 81,
+        "baseFilter": "stars:>10",
+        "repoCount": 1000,
+        "start": "2017-05-16T00:47:31.513Z",
+        "end": "2017-05-17T17:58:16.012Z"
+    },
+    {
+        "id": 82,
+        "baseFilter": "stars:>10",
+        "repoCount": 956,
+        "start": "2017-05-17T17:58:17.012Z",
+        "end": "2017-05-19T11:09:01.511Z"
+    },
+    {
+        "id": 83,
+        "baseFilter": "stars:>10",
+        "repoCount": 798,
+        "start": "2017-05-19T11:09:02.511Z",
+        "end": "2017-05-21T04:19:47.010Z"
+    },
+    {
+        "id": 84,
+        "baseFilter": "stars:>10",
+        "repoCount": 852,
+        "start": "2017-05-21T04:19:48.010Z",
+        "end": "2017-05-22T21:30:32.509Z"
+    },
+    {
+        "id": 85,
+        "baseFilter": "stars:>10",
+        "repoCount": 985,
+        "start": "2017-05-22T21:30:33.509Z",
+        "end": "2017-05-24T13:24:41.560Z"
+    },
+    {
+        "id": 86,
+        "baseFilter": "stars:>10",
+        "repoCount": 913,
+        "start": "2017-05-24T13:24:42.560Z",
+        "end": "2017-05-26T05:18:50.611Z"
+    },
+    {
+        "id": 87,
+        "baseFilter": "stars:>10",
+        "repoCount": 802,
+        "start": "2017-05-26T05:18:51.611Z",
+        "end": "2017-05-27T21:12:59.662Z"
+    },
+    {
+        "id": 88,
+        "baseFilter": "stars:>10",
+        "repoCount": 894,
+        "start": "2017-05-27T21:13:00.662Z",
+        "end": "2017-05-30T01:35:18.729Z"
+    },
+    {
+        "id": 89,
+        "baseFilter": "stars:>10",
+        "repoCount": 931,
+        "start": "2017-05-30T01:35:19.729Z",
+        "end": "2017-05-31T16:52:03.279Z"
+    },
+    {
+        "id": 90,
+        "baseFilter": "stars:>10",
+        "repoCount": 851,
+        "start": "2017-05-31T16:52:04.279Z",
+        "end": "2017-06-02T08:08:47.829Z"
+    },
+    {
+        "id": 91,
+        "baseFilter": "stars:>10",
+        "repoCount": 916,
+        "start": "2017-06-02T08:08:48.829Z",
+        "end": "2017-06-04T11:42:00.989Z"
+    },
+    {
+        "id": 92,
+        "baseFilter": "stars:>10",
+        "repoCount": 866,
+        "start": "2017-06-04T11:42:01.989Z",
+        "end": "2017-06-06T02:21:56.109Z"
+    },
+    {
+        "id": 93,
+        "baseFilter": "stars:>10",
+        "repoCount": 922,
+        "start": "2017-06-06T02:21:57.109Z",
+        "end": "2017-06-07T17:01:51.229Z"
+    },
+    {
+        "id": 94,
+        "baseFilter": "stars:>10",
+        "repoCount": 893,
+        "start": "2017-06-07T17:01:52.229Z",
+        "end": "2017-06-09T07:41:46.349Z"
+    },
+    {
+        "id": 95,
+        "baseFilter": "stars:>10",
+        "repoCount": 808,
+        "start": "2017-06-09T07:41:47.349Z",
+        "end": "2017-06-10T22:21:41.469Z"
+    },
+    {
+        "id": 96,
+        "baseFilter": "stars:>10",
+        "repoCount": 996,
+        "start": "2017-06-10T22:21:42.469Z",
+        "end": "2017-06-12T22:46:04.161Z"
+    },
+    {
+        "id": 97,
+        "baseFilter": "stars:>10",
+        "repoCount": 844,
+        "start": "2017-06-12T22:46:05.161Z",
+        "end": "2017-06-14T11:04:21.430Z"
+    },
+    {
+        "id": 98,
+        "baseFilter": "stars:>10",
+        "repoCount": 803,
+        "start": "2017-06-14T11:04:22.430Z",
+        "end": "2017-06-15T23:22:38.699Z"
+    },
+    {
+        "id": 99,
+        "baseFilter": "stars:>10",
+        "repoCount": 950,
+        "start": "2017-06-15T23:22:39.699Z",
+        "end": "2017-06-17T23:01:38.552Z"
+    },
+    {
+        "id": 100,
+        "baseFilter": "stars:>10",
+        "repoCount": 954,
+        "start": "2017-06-17T23:01:39.552Z",
+        "end": "2017-06-19T22:40:38.405Z"
+    },
+    {
+        "id": 101,
+        "baseFilter": "stars:>10",
+        "repoCount": 836,
+        "start": "2017-06-19T22:40:39.405Z",
+        "end": "2017-06-21T10:24:53.545Z"
+    },
+    {
+        "id": 102,
+        "baseFilter": "stars:>10",
+        "repoCount": 909,
+        "start": "2017-06-21T10:24:54.545Z",
+        "end": "2017-06-22T22:09:08.685Z"
+    },
+    {
+        "id": 103,
+        "baseFilter": "stars:>10",
+        "repoCount": 910,
+        "start": "2017-06-22T22:09:09.685Z",
+        "end": "2017-06-24T21:03:28.244Z"
+    },
+    {
+        "id": 104,
+        "baseFilter": "stars:>10",
+        "repoCount": 904,
+        "start": "2017-06-24T21:03:29.244Z",
+        "end": "2017-06-26T19:57:47.803Z"
+    },
+    {
+        "id": 105,
+        "baseFilter": "stars:>10",
+        "repoCount": 766,
+        "start": "2017-06-26T19:57:48.803Z",
+        "end": "2017-06-28T07:08:32.722Z"
+    },
+    {
+        "id": 106,
+        "baseFilter": "stars:>10",
+        "repoCount": 908,
+        "start": "2017-06-28T07:08:33.722Z",
+        "end": "2017-06-29T18:19:17.641Z"
+    },
+    {
+        "id": 107,
+        "baseFilter": "stars:>10",
+        "repoCount": 913,
+        "start": "2017-06-29T18:19:18.641Z",
+        "end": "2017-07-01T16:29:38.785Z"
+    },
+    {
+        "id": 108,
+        "baseFilter": "stars:>10",
+        "repoCount": 836,
+        "start": "2017-07-01T16:29:39.785Z",
+        "end": "2017-07-03T14:39:59.929Z"
+    },
+    {
+        "id": 109,
+        "baseFilter": "stars:>10",
+        "repoCount": 823,
+        "start": "2017-07-03T14:40:00.929Z",
+        "end": "2017-07-05T01:17:46.037Z"
+    },
+    {
+        "id": 110,
+        "baseFilter": "stars:>10",
+        "repoCount": 849,
+        "start": "2017-07-05T01:17:47.037Z",
+        "end": "2017-07-06T11:55:32.145Z"
+    },
+    {
+        "id": 111,
+        "baseFilter": "stars:>10",
+        "repoCount": 818,
+        "start": "2017-07-06T11:55:33.145Z",
+        "end": "2017-07-07T22:33:18.253Z"
+    },
+    {
+        "id": 112,
+        "baseFilter": "stars:>10",
+        "repoCount": 974,
+        "start": "2017-07-07T22:33:19.253Z",
+        "end": "2017-07-10T09:16:38.831Z"
+    },
+    {
+        "id": 113,
+        "baseFilter": "stars:>10",
+        "repoCount": 830,
+        "start": "2017-07-10T09:16:39.831Z",
+        "end": "2017-07-11T18:18:32.094Z"
+    },
+    {
+        "id": 114,
+        "baseFilter": "stars:>10",
+        "repoCount": 755,
+        "start": "2017-07-11T18:18:33.094Z",
+        "end": "2017-07-13T03:20:25.357Z"
+    },
+    {
+        "id": 115,
+        "baseFilter": "stars:>10",
+        "repoCount": 799,
+        "start": "2017-07-13T03:20:26.357Z",
+        "end": "2017-07-14T12:22:18.620Z"
+    },
+    {
+        "id": 116,
+        "baseFilter": "stars:>10",
+        "repoCount": 772,
+        "start": "2017-07-14T12:22:19.620Z",
+        "end": "2017-07-16T07:43:31.965Z"
+    },
+    {
+        "id": 117,
+        "baseFilter": "stars:>10",
+        "repoCount": 903,
+        "start": "2017-07-16T07:43:32.965Z",
+        "end": "2017-07-18T03:04:45.310Z"
+    },
+    {
+        "id": 118,
+        "baseFilter": "stars:>10",
+        "repoCount": 814,
+        "start": "2017-07-18T03:04:46.310Z",
+        "end": "2017-07-19T11:35:40.568Z"
+    },
+    {
+        "id": 119,
+        "baseFilter": "stars:>10",
+        "repoCount": 803,
+        "start": "2017-07-19T11:35:41.568Z",
+        "end": "2017-07-20T20:06:35.826Z"
+    },
+    {
+        "id": 120,
+        "baseFilter": "stars:>10",
+        "repoCount": 909,
+        "start": "2017-07-20T20:06:36.826Z",
+        "end": "2017-07-22T14:47:10.540Z"
+    },
+    {
+        "id": 121,
+        "baseFilter": "stars:>10",
+        "repoCount": 768,
+        "start": "2017-07-22T14:47:11.540Z",
+        "end": "2017-07-24T09:27:45.254Z"
+    },
+    {
+        "id": 122,
+        "baseFilter": "stars:>10",
+        "repoCount": 780,
+        "start": "2017-07-24T09:27:46.254Z",
+        "end": "2017-07-25T17:28:11.540Z"
+    },
+    {
+        "id": 123,
+        "baseFilter": "stars:>10",
+        "repoCount": 795,
+        "start": "2017-07-25T17:28:12.540Z",
+        "end": "2017-07-27T01:28:37.826Z"
+    },
+    {
+        "id": 124,
+        "baseFilter": "stars:>10",
+        "repoCount": 991,
+        "start": "2017-07-27T01:28:38.826Z",
+        "end": "2017-07-28T18:49:48.995Z"
+    },
+    {
+        "id": 125,
+        "baseFilter": "stars:>10",
+        "repoCount": 894,
+        "start": "2017-07-28T18:49:49.995Z",
+        "end": "2017-07-31T01:06:22.092Z"
+    },
+    {
+        "id": 126,
+        "baseFilter": "stars:>10",
+        "repoCount": 995,
+        "start": "2017-07-31T01:06:23.092Z",
+        "end": "2017-08-01T17:10:37.413Z"
+    },
+    {
+        "id": 127,
+        "baseFilter": "stars:>10",
+        "repoCount": 973,
+        "start": "2017-08-01T17:10:38.413Z",
+        "end": "2017-08-03T09:14:52.734Z"
+    },
+    {
+        "id": 128,
+        "baseFilter": "stars:>10",
+        "repoCount": 938,
+        "start": "2017-08-03T09:14:53.734Z",
+        "end": "2017-08-05T01:19:08.055Z"
+    },
+    {
+        "id": 129,
+        "baseFilter": "stars:>10",
+        "repoCount": 824,
+        "start": "2017-08-05T01:19:09.055Z",
+        "end": "2017-08-07T05:54:42.852Z"
+    },
+    {
+        "id": 130,
+        "baseFilter": "stars:>10",
+        "repoCount": 995,
+        "start": "2017-08-07T05:54:43.852Z",
+        "end": "2017-08-08T21:21:24.200Z"
+    },
+    {
+        "id": 131,
+        "baseFilter": "stars:>10",
+        "repoCount": 881,
+        "start": "2017-08-08T21:21:25.200Z",
+        "end": "2017-08-10T12:48:05.548Z"
+    },
+    {
+        "id": 132,
+        "baseFilter": "stars:>10",
+        "repoCount": 911,
+        "start": "2017-08-10T12:48:06.548Z",
+        "end": "2017-08-12T04:14:46.896Z"
+    },
+    {
+        "id": 133,
+        "baseFilter": "stars:>10",
+        "repoCount": 897,
+        "start": "2017-08-12T04:14:47.896Z",
+        "end": "2017-08-14T08:01:03.353Z"
+    },
+    {
+        "id": 134,
+        "baseFilter": "stars:>10",
+        "repoCount": 951,
+        "start": "2017-08-14T08:01:04.353Z",
+        "end": "2017-08-15T22:50:45.945Z"
+    },
+    {
+        "id": 135,
+        "baseFilter": "stars:>10",
+        "repoCount": 900,
+        "start": "2017-08-15T22:50:46.945Z",
+        "end": "2017-08-17T13:40:28.537Z"
+    },
+    {
+        "id": 136,
+        "baseFilter": "stars:>10",
+        "repoCount": 871,
+        "start": "2017-08-17T13:40:29.537Z",
+        "end": "2017-08-19T04:30:11.129Z"
+    },
+    {
+        "id": 137,
+        "baseFilter": "stars:>10",
+        "repoCount": 904,
+        "start": "2017-08-19T04:30:12.129Z",
+        "end": "2017-08-21T07:27:55.469Z"
+    },
+    {
+        "id": 138,
+        "baseFilter": "stars:>10",
+        "repoCount": 947,
+        "start": "2017-08-21T07:27:56.469Z",
+        "end": "2017-08-22T21:41:13.974Z"
+    },
+    {
+        "id": 139,
+        "baseFilter": "stars:>10",
+        "repoCount": 883,
+        "start": "2017-08-22T21:41:14.974Z",
+        "end": "2017-08-24T11:54:32.479Z"
+    },
+    {
+        "id": 140,
+        "baseFilter": "stars:>10",
+        "repoCount": 864,
+        "start": "2017-08-24T11:54:33.479Z",
+        "end": "2017-08-26T02:07:50.984Z"
+    },
+    {
+        "id": 141,
+        "baseFilter": "stars:>10",
+        "repoCount": 855,
+        "start": "2017-08-26T02:07:51.984Z",
+        "end": "2017-08-28T04:17:48.709Z"
+    },
+    {
+        "id": 142,
+        "baseFilter": "stars:>10",
+        "repoCount": 904,
+        "start": "2017-08-28T04:17:49.709Z",
+        "end": "2017-08-29T17:55:17.253Z"
+    },
+    {
+        "id": 143,
+        "baseFilter": "stars:>10",
+        "repoCount": 882,
+        "start": "2017-08-29T17:55:18.253Z",
+        "end": "2017-08-31T07:32:45.797Z"
+    },
+    {
+        "id": 144,
+        "baseFilter": "stars:>10",
+        "repoCount": 942,
+        "start": "2017-08-31T07:32:46.797Z",
+        "end": "2017-09-01T21:10:14.341Z"
+    },
+    {
+        "id": 145,
+        "baseFilter": "stars:>10",
+        "repoCount": 816,
+        "start": "2017-09-01T21:10:15.341Z",
+        "end": "2017-09-03T22:33:10.242Z"
+    },
+    {
+        "id": 146,
+        "baseFilter": "stars:>10",
+        "repoCount": 825,
+        "start": "2017-09-03T22:33:11.242Z",
+        "end": "2017-09-05T11:35:22.418Z"
+    },
+    {
+        "id": 147,
+        "baseFilter": "stars:>10",
+        "repoCount": 926,
+        "start": "2017-09-05T11:35:23.418Z",
+        "end": "2017-09-07T00:37:34.594Z"
+    },
+    {
+        "id": 148,
+        "baseFilter": "stars:>10",
+        "repoCount": 888,
+        "start": "2017-09-07T00:37:35.594Z",
+        "end": "2017-09-08T13:39:46.770Z"
+    },
+    {
+        "id": 149,
+        "baseFilter": "stars:>10",
+        "repoCount": 910,
+        "start": "2017-09-08T13:39:47.770Z",
+        "end": "2017-09-10T14:16:24.939Z"
+    },
+    {
+        "id": 150,
+        "baseFilter": "stars:>10",
+        "repoCount": 821,
+        "start": "2017-09-10T14:16:25.939Z",
+        "end": "2017-09-12T02:43:53.815Z"
+    },
+    {
+        "id": 151,
+        "baseFilter": "stars:>10",
+        "repoCount": 965,
+        "start": "2017-09-12T02:43:54.815Z",
+        "end": "2017-09-13T15:11:22.691Z"
+    },
+    {
+        "id": 152,
+        "baseFilter": "stars:>10",
+        "repoCount": 921,
+        "start": "2017-09-13T15:11:23.691Z",
+        "end": "2017-09-15T03:38:51.567Z"
+    },
+    {
+        "id": 153,
+        "baseFilter": "stars:>10",
+        "repoCount": 830,
+        "start": "2017-09-15T03:38:52.567Z",
+        "end": "2017-09-16T16:06:20.443Z"
+    },
+    {
+        "id": 154,
+        "baseFilter": "stars:>10",
+        "repoCount": 914,
+        "start": "2017-09-16T16:06:21.443Z",
+        "end": "2017-09-18T15:57:24.281Z"
+    },
+    {
+        "id": 155,
+        "baseFilter": "stars:>10",
+        "repoCount": 807,
+        "start": "2017-09-18T15:57:25.281Z",
+        "end": "2017-09-20T03:50:42.409Z"
+    },
+    {
+        "id": 156,
+        "baseFilter": "stars:>10",
+        "repoCount": 811,
+        "start": "2017-09-20T03:50:43.409Z",
+        "end": "2017-09-21T15:44:00.537Z"
+    },
+    {
+        "id": 157,
+        "baseFilter": "stars:>10",
+        "repoCount": 765,
+        "start": "2017-09-21T15:44:01.537Z",
+        "end": "2017-09-23T03:37:18.665Z"
+    },
+    {
+        "id": 158,
+        "baseFilter": "stars:>10",
+        "repoCount": 798,
+        "start": "2017-09-23T03:37:19.665Z",
+        "end": "2017-09-25T02:43:30.896Z"
+    },
+    {
+        "id": 159,
+        "baseFilter": "stars:>10",
+        "repoCount": 783,
+        "start": "2017-09-25T02:43:31.896Z",
+        "end": "2017-09-26T14:03:10.319Z"
+    },
+    {
+        "id": 160,
+        "baseFilter": "stars:>10",
+        "repoCount": 836,
+        "start": "2017-09-26T14:03:11.319Z",
+        "end": "2017-09-28T01:22:49.742Z"
+    },
+    {
+        "id": 161,
+        "baseFilter": "stars:>10",
+        "repoCount": 815,
+        "start": "2017-09-28T01:22:50.742Z",
+        "end": "2017-09-29T12:42:29.165Z"
+    },
+    {
+        "id": 162,
+        "baseFilter": "stars:>10",
+        "repoCount": 786,
+        "start": "2017-09-29T12:42:30.165Z",
+        "end": "2017-10-01T11:04:31.846Z"
+    },
+    {
+        "id": 163,
+        "baseFilter": "stars:>10",
+        "repoCount": 853,
+        "start": "2017-10-01T11:04:32.846Z",
+        "end": "2017-10-03T09:26:34.527Z"
+    },
+    {
+        "id": 164,
+        "baseFilter": "stars:>10",
+        "repoCount": 998,
+        "start": "2017-10-03T09:26:35.527Z",
+        "end": "2017-10-05T07:48:37.208Z"
+    },
+    {
+        "id": 165,
+        "baseFilter": "stars:>10",
+        "repoCount": 913,
+        "start": "2017-10-05T07:48:38.208Z",
+        "end": "2017-10-07T06:10:39.889Z"
+    },
+    {
+        "id": 166,
+        "baseFilter": "stars:>10",
+        "repoCount": 771,
+        "start": "2017-10-07T06:10:40.889Z",
+        "end": "2017-10-09T04:32:42.570Z"
+    },
+    {
+        "id": 167,
+        "baseFilter": "stars:>10",
+        "repoCount": 867,
+        "start": "2017-10-09T04:32:43.570Z",
+        "end": "2017-10-10T15:19:14.830Z"
+    },
+    {
+        "id": 168,
+        "baseFilter": "stars:>10",
+        "repoCount": 836,
+        "start": "2017-10-10T15:19:15.830Z",
+        "end": "2017-10-12T02:05:47.090Z"
+    },
+    {
+        "id": 169,
+        "baseFilter": "stars:>10",
+        "repoCount": 805,
+        "start": "2017-10-12T02:05:48.090Z",
+        "end": "2017-10-13T12:52:19.350Z"
+    },
+    {
+        "id": 170,
+        "baseFilter": "stars:>10",
+        "repoCount": 874,
+        "start": "2017-10-13T12:52:20.350Z",
+        "end": "2017-10-15T10:30:53.879Z"
+    },
+    {
+        "id": 171,
+        "baseFilter": "stars:>10",
+        "repoCount": 808,
+        "start": "2017-10-15T10:30:54.879Z",
+        "end": "2017-10-16T20:44:50.026Z"
+    },
+    {
+        "id": 172,
+        "baseFilter": "stars:>10",
+        "repoCount": 799,
+        "start": "2017-10-16T20:44:51.026Z",
+        "end": "2017-10-18T06:58:46.173Z"
+    },
+    {
+        "id": 173,
+        "baseFilter": "stars:>10",
+        "repoCount": 879,
+        "start": "2017-10-18T06:58:47.173Z",
+        "end": "2017-10-19T17:12:42.320Z"
+    },
+    {
+        "id": 174,
+        "baseFilter": "stars:>10",
+        "repoCount": 770,
+        "start": "2017-10-19T17:12:43.320Z",
+        "end": "2017-10-21T03:26:38.467Z"
+    },
+    {
+        "id": 175,
+        "baseFilter": "stars:>10",
+        "repoCount": 875,
+        "start": "2017-10-21T03:26:39.467Z",
+        "end": "2017-10-23T00:22:25.597Z"
+    },
+    {
+        "id": 176,
+        "baseFilter": "stars:>10",
+        "repoCount": 800,
+        "start": "2017-10-23T00:22:26.597Z",
+        "end": "2017-10-24T10:04:16.195Z"
+    },
+    {
+        "id": 177,
+        "baseFilter": "stars:>10",
+        "repoCount": 876,
+        "start": "2017-10-24T10:04:17.195Z",
+        "end": "2017-10-25T19:46:06.793Z"
+    },
+    {
+        "id": 178,
+        "baseFilter": "stars:>10",
+        "repoCount": 756,
+        "start": "2017-10-25T19:46:07.793Z",
+        "end": "2017-10-27T05:27:57.391Z"
+    },
+    {
+        "id": 179,
+        "baseFilter": "stars:>10",
+        "repoCount": 898,
+        "start": "2017-10-27T05:27:58.391Z",
+        "end": "2017-10-29T01:41:37.238Z"
+    },
+    {
+        "id": 180,
+        "baseFilter": "stars:>10",
+        "repoCount": 933,
+        "start": "2017-10-29T01:41:38.238Z",
+        "end": "2017-10-30T21:55:17.085Z"
+    },
+    {
+        "id": 181,
+        "baseFilter": "stars:>10",
+        "repoCount": 998,
+        "start": "2017-10-30T21:55:18.085Z",
+        "end": "2017-11-01T16:46:40.215Z"
+    },
+    {
+        "id": 182,
+        "baseFilter": "stars:>10",
+        "repoCount": 993,
+        "start": "2017-11-01T16:46:41.215Z",
+        "end": "2017-11-03T11:38:03.345Z"
+    },
+    {
+        "id": 183,
+        "baseFilter": "stars:>10",
+        "repoCount": 795,
+        "start": "2017-11-03T11:38:04.345Z",
+        "end": "2017-11-05T06:29:26.475Z"
+    },
+    {
+        "id": 184,
+        "baseFilter": "stars:>10",
+        "repoCount": 927,
+        "start": "2017-11-05T06:29:27.475Z",
+        "end": "2017-11-07T01:20:49.605Z"
+    },
+    {
+        "id": 185,
+        "baseFilter": "stars:>10",
+        "repoCount": 774,
+        "start": "2017-11-07T01:20:50.605Z",
+        "end": "2017-11-08T09:29:22.202Z"
+    },
+    {
+        "id": 186,
+        "baseFilter": "stars:>10",
+        "repoCount": 783,
+        "start": "2017-11-08T09:29:23.202Z",
+        "end": "2017-11-09T17:37:54.799Z"
+    },
+    {
+        "id": 187,
+        "baseFilter": "stars:>10",
+        "repoCount": 894,
+        "start": "2017-11-09T17:37:55.799Z",
+        "end": "2017-11-11T11:49:07.271Z"
+    },
+    {
+        "id": 188,
+        "baseFilter": "stars:>10",
+        "repoCount": 834,
+        "start": "2017-11-11T11:49:08.271Z",
+        "end": "2017-11-13T06:00:19.743Z"
+    },
+    {
+        "id": 189,
+        "baseFilter": "stars:>10",
+        "repoCount": 764,
+        "start": "2017-11-13T06:00:20.743Z",
+        "end": "2017-11-14T13:38:44.347Z"
+    },
+    {
+        "id": 190,
+        "baseFilter": "stars:>10",
+        "repoCount": 804,
+        "start": "2017-11-14T13:38:45.347Z",
+        "end": "2017-11-15T21:17:08.951Z"
+    },
+    {
+        "id": 191,
+        "baseFilter": "stars:>10",
+        "repoCount": 998,
+        "start": "2017-11-15T21:17:09.951Z",
+        "end": "2017-11-17T14:48:48.431Z"
+    },
+    {
+        "id": 192,
+        "baseFilter": "stars:>10",
+        "repoCount": 987,
+        "start": "2017-11-17T14:48:49.431Z",
+        "end": "2017-11-19T20:28:00.299Z"
+    },
+    {
+        "id": 193,
+        "baseFilter": "stars:>10",
+        "repoCount": 971,
+        "start": "2017-11-19T20:28:01.299Z",
+        "end": "2017-11-21T12:42:24.450Z"
+    },
+    {
+        "id": 194,
+        "baseFilter": "stars:>10",
+        "repoCount": 830,
+        "start": "2017-11-21T12:42:25.450Z",
+        "end": "2017-11-22T18:53:12.813Z"
+    },
+    {
+        "id": 195,
+        "baseFilter": "stars:>10",
+        "repoCount": 817,
+        "start": "2017-11-22T18:53:13.813Z",
+        "end": "2017-11-24T10:29:53.477Z"
+    },
+    {
+        "id": 196,
+        "baseFilter": "stars:>10",
+        "repoCount": 765,
+        "start": "2017-11-24T10:29:54.477Z",
+        "end": "2017-11-26T02:06:34.141Z"
+    },
+    {
+        "id": 197,
+        "baseFilter": "stars:>10",
+        "repoCount": 861,
+        "start": "2017-11-26T02:06:35.141Z",
+        "end": "2017-11-27T17:43:14.805Z"
+    },
+    {
+        "id": 198,
+        "baseFilter": "stars:>10",
+        "repoCount": 938,
+        "start": "2017-11-27T17:43:15.805Z",
+        "end": "2017-11-29T09:19:55.469Z"
+    },
+    {
+        "id": 199,
+        "baseFilter": "stars:>10",
+        "repoCount": 795,
+        "start": "2017-11-29T09:19:56.469Z",
+        "end": "2017-11-30T15:02:26.217Z"
+    },
+    {
+        "id": 200,
+        "baseFilter": "stars:>10",
+        "repoCount": 874,
+        "start": "2017-11-30T15:02:27.217Z",
+        "end": "2017-12-02T06:01:58.761Z"
+    },
+    {
+        "id": 201,
+        "baseFilter": "stars:>10",
+        "repoCount": 951,
+        "start": "2017-12-02T06:01:59.761Z",
+        "end": "2017-12-04T09:12:37.413Z"
+    },
+    {
+        "id": 202,
+        "baseFilter": "stars:>10",
+        "repoCount": 980,
+        "start": "2017-12-04T09:12:38.413Z",
+        "end": "2017-12-05T23:35:36.652Z"
+    },
+    {
+        "id": 203,
+        "baseFilter": "stars:>10",
+        "repoCount": 871,
+        "start": "2017-12-05T23:35:37.652Z",
+        "end": "2017-12-07T13:58:35.891Z"
+    },
+    {
+        "id": 204,
+        "baseFilter": "stars:>10",
+        "repoCount": 854,
+        "start": "2017-12-07T13:58:36.891Z",
+        "end": "2017-12-09T04:21:35.130Z"
+    },
+    {
+        "id": 205,
+        "baseFilter": "stars:>10",
+        "repoCount": 937,
+        "start": "2017-12-09T04:21:36.130Z",
+        "end": "2017-12-11T06:44:15.069Z"
+    },
+    {
+        "id": 206,
+        "baseFilter": "stars:>10",
+        "repoCount": 972,
+        "start": "2017-12-11T06:44:16.069Z",
+        "end": "2017-12-12T20:31:15.273Z"
+    },
+    {
+        "id": 207,
+        "baseFilter": "stars:>10",
+        "repoCount": 900,
+        "start": "2017-12-12T20:31:16.273Z",
+        "end": "2017-12-14T10:18:15.477Z"
+    },
+    {
+        "id": 208,
+        "baseFilter": "stars:>10",
+        "repoCount": 856,
+        "start": "2017-12-14T10:18:16.477Z",
+        "end": "2017-12-16T00:05:15.681Z"
+    },
+    {
+        "id": 209,
+        "baseFilter": "stars:>10",
+        "repoCount": 830,
+        "start": "2017-12-16T00:05:16.681Z",
+        "end": "2017-12-18T01:40:41.887Z"
+    },
+    {
+        "id": 210,
+        "baseFilter": "stars:>10",
+        "repoCount": 894,
+        "start": "2017-12-18T01:40:42.887Z",
+        "end": "2017-12-19T14:52:16.791Z"
+    },
+    {
+        "id": 211,
+        "baseFilter": "stars:>10",
+        "repoCount": 860,
+        "start": "2017-12-19T14:52:17.791Z",
+        "end": "2017-12-21T04:03:51.695Z"
+    },
+    {
+        "id": 212,
+        "baseFilter": "stars:>10",
+        "repoCount": 864,
+        "start": "2017-12-21T04:03:52.695Z",
+        "end": "2017-12-22T17:15:26.599Z"
+    },
+    {
+        "id": 213,
+        "baseFilter": "stars:>10",
+        "repoCount": 791,
+        "start": "2017-12-22T17:15:27.599Z",
+        "end": "2017-12-24T18:04:23.348Z"
+    },
+    {
+        "id": 214,
+        "baseFilter": "stars:>10",
+        "repoCount": 806,
+        "start": "2017-12-24T18:04:24.348Z",
+        "end": "2017-12-26T18:53:20.097Z"
+    },
+    {
+        "id": 215,
+        "baseFilter": "stars:>10",
+        "repoCount": 990,
+        "start": "2017-12-26T18:53:21.097Z",
+        "end": "2017-12-28T18:56:30.975Z"
+    },
+    {
+        "id": 216,
+        "baseFilter": "stars:>10",
+        "repoCount": 917,
+        "start": "2017-12-28T18:56:31.975Z",
+        "end": "2017-12-30T18:59:41.853Z"
+    },
+    {
+        "id": 217,
+        "baseFilter": "stars:>10",
+        "repoCount": 82,
+        "start": "2017-12-30T18:59:42.853Z",
+        "end": "2017-12-31T00:00:00.000Z"
+    }
+]

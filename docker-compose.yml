@@ -13,6 +13,25 @@ services:
     networks:
       - custom_network
 
+  redis:
+    image: "redis"
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+      - custom_network
+
+  mongo-admin:
+    image: mongo-express
+    ports:
+      - "8081:8081"
+    depends_on:
+      - mongodb
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://${MONGO_USER}:${MONGO_PASSWORD}@mongodb:27017?ssl=false
+    networks:
+      - custom_network
+
 networks:
   custom_network:
     name: custom_network
