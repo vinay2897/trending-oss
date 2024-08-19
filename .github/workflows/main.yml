@@ -31,3 +31,4 @@ jobs:
           context: ingestor-v2/
           push: true
           tags: vinay2897/trending-oss-ingestor:latest
+          platforms: linux/amd64,linux/arm64
