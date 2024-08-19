@@ -27,6 +27,7 @@ export const createTimeSeriesCollection = async (client: MongoClient) => {
       timeField: "ts",
       granularity: "hours",
     },
+    expireAfterSeconds: 30 * 24 * 60 * 60,
   });
 };
 
