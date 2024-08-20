@@ -28,7 +28,14 @@ export const createJobs = async () => {
           id,
           searchFilter: `${baseFilter} created:${start}..${end}`,
         },
-        { delay: parseInt(idx) * 2 * 60 * 60 * 1000 },
+        {
+          delay: parseInt(idx) * 2 * 60 * 60 * 1000,
+          attempts: 5,
+          backoff: {
+            type: "exponential",
+            delay: 2 * 60 * 1000,
+          },
+        },
       );
     }
   }
