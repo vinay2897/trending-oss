@@ -25,6 +25,7 @@ export const createTimeSeriesCollection = async (client: MongoClient) => {
   await db.createCollection(COLLECTION_NAME, {
     timeseries: {
       timeField: "ts",
+      metaField: "u",
       granularity: "hours",
     },
     expireAfterSeconds: 30 * 24 * 60 * 60,
